@@ -99,7 +99,7 @@ function showQuestion() {
     document.body.innerHTML = `
 <div class="blur-box" style="text-align: center;">
             <h1>Apakah kamu mencintaiku??</h1>
-            <img src="foto/photo4.jpg" alt="Foto" style="width: 150px; height: auto; margin-top: 10px;"> <!-- Ganti dengan foto yang sesuai -->
+            <img src="foto/photo6.jpg" alt="Foto" style="width: 150px; height: auto; margin-top: 10px;"> <!-- Ganti dengan foto yang sesuai -->
             <div style="margin-top: 20px;">
                 <button onclick="answerYesToQuestion()">Iya</button>
                 <button id="noButton" onclick="answerNoToQuestion()">Tidak</button>

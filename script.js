@@ -69,9 +69,9 @@ function showMessage() {
     let currentStep = 0; // Mulai dari langkah pertama
     const messages = [
         "Hai sayangku, makasih yaa udah milih aku",
-        "ga pernah berhenti aku bersyukur dan berterima kasih bisa bersamamu, memikirkanmu, semua perasaan aku rasain aku bener bener senang. walaupun mungkin buat aku kesel atau badmood, aku ga tau kenapaa selalu sayang sama ayy",
-        "semua momen aku jalani dan semua berhubungan sama sayang selalu istimewa buat aku. aku selalu berdoa agar kita bisa bersama selamanya, aku rasa itu doang keinginan aku",
-        "ga pernah aku mikir yang aneh-aneh jadi aku harap sayang ga jelekin diri sendiri, mungkin aku ga pantas bilang ini tapi aku bener bener mau jadi terbaik buat sayang, dan sayang juga benar benar terbaik buat aku. aku sayang banget sama valda my princess, love, partner, wife, girlfriend, prettiest girl in the world, my everything, my love",
+        "ga pernah berhenti aku bersyukur dan berterima kasih bisa bersamamu, memikirkanmu, semua perasaan aku rasain aku bener bener senang. aku minta maaf yaa kadang suka kesel atau badmood, itu tuh bukan karena sayangg. bener bener aku doang itu karena situasi dan aku mau sayang buat aku doang maaf yaa, aku beneran sayang banget sama ayy",
+        "semua momen aku jalani dan semua berhubungan sama sayang selalu istimewa buat aku. aku selalu berdoa agar kita bisa bersama selamanya, aku rasa itu doang keinginan aku. makasih udah jadi kebahagiaan dan tujuan aku. semua yang aku lakuin sekarang pasti mikirin sayang, aku pengen semua hidup aku berhubungan sama sayang dan cuma sayang. aku harap ga repotin hehehe",
+        "ga pernah aku mikir yang aneh-aneh jadi aku harap sayang ga jelekin diri sendiri, mungkin aku ga pantas bilang ini tapi aku bener bener mau jadi terbaik buat sayang, dan sayang juga benar benar terbaik buat aku. aku sayang banget sama valda my princess, partner, wife, girlfriend, prettiest girl in the world, my everything, my love",
         "sayang aku mau nanya sesuatu dehh jawab jujur aja gapapa sayang"
     ];
 
